@@ -15,7 +15,6 @@ const ProgressBar = props => {
         duration: 3,
       }}
   >
-
   </motion.div >
   );
 };
