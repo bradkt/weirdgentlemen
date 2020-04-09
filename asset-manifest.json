@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7eb234e.chunk.css",
+    "main.js": "/static/js/main.f446840f.chunk.js",
+    "main.js.map": "/static/js/main.f446840f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.570ad1c7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.570ad1c7.js.map",
+    "static/js/2.49ff8499.chunk.js": "/static/js/2.49ff8499.chunk.js",
+    "static/js/2.49ff8499.chunk.js.map": "/static/js/2.49ff8499.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.df91a92fb69f2c3f8c059267b8932f2c.js": "/precache-manifest.df91a92fb69f2c3f8c059267b8932f2c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e7eb234e.chunk.css.map": "/static/css/main.e7eb234e.chunk.css.map",
+    "static/js/2.49ff8499.chunk.js.LICENSE.txt": "/static/js/2.49ff8499.chunk.js.LICENSE.txt",
+    "static/media/preloader-circle-shape.png": "/static/media/preloader-circle-shape.fb9ecfcd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.570ad1c7.js",
+    "static/js/2.49ff8499.chunk.js",
+    "static/css/main.e7eb234e.chunk.css",
+    "static/js/main.f446840f.chunk.js"
+  ]
+}
