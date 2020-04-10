@@ -9,3 +9,15 @@ img {
     z-index: 1;
     position: relative;
 }
+
+@media screen and (max-width: 850px) {
+    .componentContiner {
+        width: 75vw;
+    }
+  }
+
+@media screen and (max-width: 620px) {
+    .componentContiner {
+        width: 95vw;
+    }
+  }

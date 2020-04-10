@@ -19,4 +19,10 @@
     100% { background-position: -100vw 0px; }
  }
 
- 
+ @media screen and (max-width: 500px) {
+    .componentContiner {
+        background-image:
+	   -webkit-linear-gradient(-45deg, transparent 25%, rgba(0, 0, 0, .1) 25%, rgba(0,0, 0, .1) 50%, transparent 50%),
+	   -webkit-linear-gradient(top,  rgb(255, 255, 255), rgba(0, 0, 0, 0.74));
+    }
+  }  
