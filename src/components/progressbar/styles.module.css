@@ -1,16 +1,13 @@
 .componentContiner {
     height: 1.3em;
     width: 100vw;
-    /* background: linear-gradient(90deg, rgba(180,58,58,1) 0%, rgba(120,156,69,1) 25%, rgba(29,79,253,1) 50%, rgba(73,163,162,1) 80%, rgba(252,69,69,1) 100%); */
     align-self: end;
     background-image:
 	   -webkit-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, .1) 33%, rgba(0,0, 0, .1) 66%, transparent 66%),
 	   -webkit-linear-gradient(top,  rgba(255, 255, 255, 0.50), rgba(0, 0, 0, .3));
 	   /* -webkit-linear-gradient(right, rgba(180,58,58,1), rgba(29,79,253,1), rgb(136, 189, 63)); */
-
-    /* border-radius: 2px;  */
-    /* background-size: 35px 20px, 100% 100%, 100% 100%; */
-    /* -webkit-animation: animate-stripes 3s linear infinite; */
+        /* background-size: 35px 20px, 100% 100%, 100% 100%; */
+        -webkit-animation: animate-stripes 3s linear infinite;
         animation: animate-stripes 3s linear infinite;
 }
 
