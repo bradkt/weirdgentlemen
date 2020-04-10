@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cddb7e76b2fc46ddf5170e9660b7941b",
+    "revision": "dd27926479e7ce28c4d782547a7c8bb1",
     "url": "/weirdgentlemen/index.html"
   },
   {
-    "revision": "6755216bc62a665568da",
-    "url": "/weirdgentlemen/static/css/main.b8522c61.chunk.css"
+    "revision": "b6863fe186c8d3c466e8",
+    "url": "/weirdgentlemen/static/css/main.6462bfde.chunk.css"
   },
   {
     "revision": "cf9e31a72c90b68cd41f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weirdgentlemen/static/js/2.49ff8499.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6755216bc62a665568da",
+    "revision": "b6863fe186c8d3c466e8",
     "url": "/weirdgentlemen/static/js/main.625c7e46.chunk.js"
   },
   {
