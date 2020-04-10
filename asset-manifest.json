@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7eb234e.chunk.css",
-    "main.js": "/static/js/main.f446840f.chunk.js",
-    "main.js.map": "/static/js/main.f446840f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.570ad1c7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.570ad1c7.js.map",
-    "static/js/2.49ff8499.chunk.js": "/static/js/2.49ff8499.chunk.js",
-    "static/js/2.49ff8499.chunk.js.map": "/static/js/2.49ff8499.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.df91a92fb69f2c3f8c059267b8932f2c.js": "/precache-manifest.df91a92fb69f2c3f8c059267b8932f2c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e7eb234e.chunk.css.map": "/static/css/main.e7eb234e.chunk.css.map",
-    "static/js/2.49ff8499.chunk.js.LICENSE.txt": "/static/js/2.49ff8499.chunk.js.LICENSE.txt",
-    "static/media/preloader-circle-shape.png": "/static/media/preloader-circle-shape.fb9ecfcd.png"
+    "main.css": "/weirdgentlemen/static/css/main.92490814.chunk.css",
+    "main.js": "/weirdgentlemen/static/js/main.625c7e46.chunk.js",
+    "main.js.map": "/weirdgentlemen/static/js/main.625c7e46.chunk.js.map",
+    "runtime-main.js": "/weirdgentlemen/static/js/runtime-main.03b9e15e.js",
+    "runtime-main.js.map": "/weirdgentlemen/static/js/runtime-main.03b9e15e.js.map",
+    "static/js/2.49ff8499.chunk.js": "/weirdgentlemen/static/js/2.49ff8499.chunk.js",
+    "static/js/2.49ff8499.chunk.js.map": "/weirdgentlemen/static/js/2.49ff8499.chunk.js.map",
+    "index.html": "/weirdgentlemen/index.html",
+    "precache-manifest.9160492c070eabc49f9b31f758746476.js": "/weirdgentlemen/precache-manifest.9160492c070eabc49f9b31f758746476.js",
+    "service-worker.js": "/weirdgentlemen/service-worker.js",
+    "static/css/main.92490814.chunk.css.map": "/weirdgentlemen/static/css/main.92490814.chunk.css.map",
+    "static/js/2.49ff8499.chunk.js.LICENSE.txt": "/weirdgentlemen/static/js/2.49ff8499.chunk.js.LICENSE.txt",
+    "static/media/preloader-circle-shape.png": "/weirdgentlemen/static/media/preloader-circle-shape.fb9ecfcd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.570ad1c7.js",
+    "static/js/runtime-main.03b9e15e.js",
     "static/js/2.49ff8499.chunk.js",
-    "static/css/main.e7eb234e.chunk.css",
-    "static/js/main.f446840f.chunk.js"
+    "static/css/main.92490814.chunk.css",
+    "static/js/main.625c7e46.chunk.js"
   ]
 }
