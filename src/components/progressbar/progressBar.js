@@ -7,7 +7,7 @@ const ProgressBar = props => {
   return (
   <motion.div 
     className={classes.componentContiner}
-    initial={{ width: 100 }}
+    initial={{ width: 5 }}
     animate={{ width: '100vw' }}
     transition={{
         delay: 1,
