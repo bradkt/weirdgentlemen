@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weirdgentlemen/static/css/main.92490814.chunk.css",
+    "main.css": "/weirdgentlemen/static/css/main.b8522c61.chunk.css",
     "main.js": "/weirdgentlemen/static/js/main.625c7e46.chunk.js",
     "main.js.map": "/weirdgentlemen/static/js/main.625c7e46.chunk.js.map",
     "runtime-main.js": "/weirdgentlemen/static/js/runtime-main.03b9e15e.js",
@@ -8,16 +8,16 @@
     "static/js/2.49ff8499.chunk.js": "/weirdgentlemen/static/js/2.49ff8499.chunk.js",
     "static/js/2.49ff8499.chunk.js.map": "/weirdgentlemen/static/js/2.49ff8499.chunk.js.map",
     "index.html": "/weirdgentlemen/index.html",
-    "precache-manifest.9160492c070eabc49f9b31f758746476.js": "/weirdgentlemen/precache-manifest.9160492c070eabc49f9b31f758746476.js",
+    "precache-manifest.11cb41ee0974667da7d2bc1c36948c53.js": "/weirdgentlemen/precache-manifest.11cb41ee0974667da7d2bc1c36948c53.js",
     "service-worker.js": "/weirdgentlemen/service-worker.js",
-    "static/css/main.92490814.chunk.css.map": "/weirdgentlemen/static/css/main.92490814.chunk.css.map",
+    "static/css/main.b8522c61.chunk.css.map": "/weirdgentlemen/static/css/main.b8522c61.chunk.css.map",
     "static/js/2.49ff8499.chunk.js.LICENSE.txt": "/weirdgentlemen/static/js/2.49ff8499.chunk.js.LICENSE.txt",
     "static/media/preloader-circle-shape.png": "/weirdgentlemen/static/media/preloader-circle-shape.fb9ecfcd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.03b9e15e.js",
     "static/js/2.49ff8499.chunk.js",
-    "static/css/main.92490814.chunk.css",
+    "static/css/main.b8522c61.chunk.css",
     "static/js/main.625c7e46.chunk.js"
   ]
 }
